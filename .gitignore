@@ -1,0 +1,8 @@
+.venv/
+model-cache/
+data/
+outputs/
+__pycache__/
+*.zip
+kaggle.json
+.env

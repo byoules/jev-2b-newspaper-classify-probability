@@ -1,0 +1,22 @@
+{
+  "dataset": "brasks43/news-articles-classified",
+  "data_folder": "data",
+  "local_csv": null,
+  "model_cache": "model-cache",
+  "output_folder": "outputs",
+  "model": "ZefanCai/Open-Jev-2B",
+  "model_revision": "0c7aa498b1627be8da4acf34c863ff0ee0a92785",
+  "base_model": "Qwen/Qwen3.5-2B",
+  "base_revision": "15852e8c16360a2fea060d615a32b45270f8a8fc",
+  "device": "auto",
+  "minimum_free_gpu_gib": 8,
+  "candidate_batch_size": 1,
+  "max_length": 4096,
+  "row_limit": null,
+  "question": "Which category best describes the main topic of this news headline?",
+  "categories": {
+    "sports": "Sporting events, teams, athletes, competitions, and results.",
+    "politics": "Government, elections, political parties, legislation, and public policy.",
+    "finance": "Banking, investing, financial markets, corporate financial results, and financial services."
+  }
+}

@@ -1,0 +1,7 @@
+Vendored unmodified runtime source:
+https://github.com/Zefan-Cai/Open-Jev
+Commit: 820e2a7cacf2ac906b1a5590ee9a1a8afc1d0312
+Included: jev/, third_party/, pyproject.toml, README.md, LICENSE.
+Model package: https://huggingface.co/ZefanCai/Open-Jev-2B
+Revision: 0c7aa498b1627be8da4acf34c863ff0ee0a92785
+No model weights or Kaggle data are included in this archive.

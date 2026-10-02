@@ -1,0 +1,3 @@
+[console_scripts]
+open-jev-serve = jev.server:main
+open-jev-train = jev.train:main
