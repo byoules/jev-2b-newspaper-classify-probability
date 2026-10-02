@@ -6,3 +6,5 @@ __pycache__/
 *.zip
 kaggle.json
 .env
+build/
+*.egg-info/
